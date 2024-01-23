@@ -1,0 +1,14 @@
+
+
+.more-products {
+  /* Your styles for MoreProducts component */
+  padding: 20px;
+}
+
+.back-link {
+  /* Style for your back link */
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: none;
+  color: #007bff;
+}
